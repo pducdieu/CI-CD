@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\CICDC#\CI-CD\bin\Debug\net8.0\CI-CD.exe
+C:\Users\Admin\Desktop\CICDC#\CI-CD\bin\Debug\net8.0\CI-CD.deps.json
+C:\Users\Admin\Desktop\CICDC#\CI-CD\bin\Debug\net8.0\CI-CD.runtimeconfig.json
+C:\Users\Admin\Desktop\CICDC#\CI-CD\bin\Debug\net8.0\CI-CD.dll
+C:\Users\Admin\Desktop\CICDC#\CI-CD\bin\Debug\net8.0\CI-CD.pdb
+C:\Users\Admin\Desktop\CICDC#\CI-CD\obj\Debug\net8.0\CI-CD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CICDC#\CI-CD\obj\Debug\net8.0\CI-CD.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CICDC#\CI-CD\obj\Debug\net8.0\CI-CD.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CICDC#\CI-CD\obj\Debug\net8.0\CI-CD.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CICDC#\CI-CD\obj\Debug\net8.0\CI-CD.dll
+C:\Users\Admin\Desktop\CICDC#\CI-CD\obj\Debug\net8.0\refint\CI-CD.dll
+C:\Users\Admin\Desktop\CICDC#\CI-CD\obj\Debug\net8.0\CI-CD.pdb
+C:\Users\Admin\Desktop\CICDC#\CI-CD\obj\Debug\net8.0\CI-CD.genruntimeconfig.cache
+C:\Users\Admin\Desktop\CICDC#\CI-CD\obj\Debug\net8.0\ref\CI-CD.dll
